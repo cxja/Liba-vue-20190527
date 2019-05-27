@@ -1,0 +1,38 @@
+.classify{
+    border-bottom: 1px solid #999;
+    background-color: #fff;
+ }
+ 
+ .classify td{
+     font-size: 12px;
+     background-color: #fff;
+ }
+ 
+ .classify tr:nth-of-type(1) td:nth-of-type(1){
+     background-color: #f5f5fa;
+ }
+ 
+ .classify tr:nth-of-type(1) td:nth-of-type(1) a{
+     border: none;
+ }
+
+ /* .block-info .block-in::before{
+    background: url(../image/more.png) no-repeat;
+    width: 10px;
+    height: 10px;
+    right: 13px;
+    top: 0px;
+    background-size: 100%;
+ } */
+
+ 
+ .all{
+     right: -303px
+ }
+
+ #price{
+    font-size: 14px;
+    color: #f66;
+    font-weight: 400
+ }
+ 

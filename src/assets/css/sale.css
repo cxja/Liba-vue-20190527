@@ -1,0 +1,169 @@
+.tab ul {
+  padding-left: 0px;
+  overflow: hidden;
+}
+
+.tab ul li {
+  float: left;
+  list-style: none;
+  width: 50%;
+}
+
+.tab ul li img {
+  width: 40px;
+  height: 40px;
+}
+
+.icon-build span {
+  display: block;
+  color: #eb9c00;
+}
+
+.icon-decorate span {
+  display: block;
+  color: #ff4c97;
+}
+
+.notice-title {
+  padding-left: 15px;
+  float: left;
+}
+
+.notice-title i {
+  background: url("../image/icon_notice.png");
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-size: contain;
+  position: relative;
+  top: 4px;
+}
+
+.notice-content {
+  font-size: 10px;
+  list-style: none;
+  padding-top: 5px;
+  overflow: hidden;
+  height: 15px;
+}
+
+.notice-content ul {
+  height: 10px;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  top: -10px;
+  padding-left: 10px;
+}
+
+.notice-content ul li {
+  margin-top: 10px;
+}
+
+.notice {
+  background: #fffbeb;
+  height: 24px;
+}
+
+.limit{
+  margin-top: 78px
+}
+
+.limit i{
+  display: inline-block;
+  width: 15.5px;
+  height: 7px;
+  vertical-align: 2px;
+  background-size: contain;
+}
+.icon-left{
+  background: url("../image/icon_star_left.png");
+}
+
+.icon-right{
+  background: url("../image/icon_star_right.png");
+}
+
+.limit span{
+  font-size: 20px;
+  font-weight: 700;
+  color:#333;
+  
+}
+
+.classify-nav{
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.classify-nav ul{
+  padding-left: 0px;
+}
+
+.classify-nav ul li{
+  float: left;
+  list-style: none;
+  width: 25%;
+  height: 40px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  line-height: 40px;
+  color: #aaa;
+}
+
+#sale{
+  background: #fff;
+}
+
+.show-content{
+  font-size: 17px;
+  background: #fff;
+}
+
+.show-content ul{
+  padding-left: 0px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.show-content ul li{
+  width: 49%;
+  margin-top: 30px;
+  float: left;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.show-title img{
+  width: 184px;
+  height: 123px;
+}
+
+.show-title li:nth-of-type(2n+1){
+  float: left;
+  margin-right: 5px
+}
+
+.sub-title{
+  margin-top: 5px
+}
+
+.time{
+  font-size: 12px;
+  border: 1px solid #f34f79;
+  color:#f34f79;
+  width: 158px;
+  margin: 0 auto;
+}
+
+.show-time>span{
+  /* border: 1px solid #f34f79; */
+  display: block;
+  color:#f34f79;
+  font-size: 12px;
+  margin: 7px auto 16px;
+}
+
+
+

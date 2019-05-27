@@ -1,0 +1,267 @@
+body{
+    background-color: #f5f5fa
+}
+.logo_top{
+    position: absolute;
+    left: 0px;
+    top: 12px;
+    color: #fff;
+    margin-left: 15px
+}
+
+.mint-swipe{
+    height: 156px;
+}
+
+.decoration-banner{
+    overflow: hidden;
+    margin-bottom: 15px;
+    background-color: #fff;
+    padding-bottom: 15px
+}
+.iconfont {
+    display: block;
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+    margin: 0 auto;
+ }
+
+.icons{
+    padding-left: 0px;
+}
+
+.icons i{
+    margin: 10px 34px
+}
+
+.icons li{
+    list-style: none;
+    width: 25%;
+    text-align: center;
+    float: left;
+    
+}
+.icons li:nth-of-type(1) i a{
+    color: rgba(250, 135, 4, 0.5);
+}
+
+.icons li:nth-of-type(2) i a{
+    color: rgba(98, 4, 250, 0.5);
+}
+
+.icons li:nth-of-type(3) i a{
+    color: rgba(250, 225, 4, 0.746)
+}
+.icons li:nth-of-type(4) i a{
+    color: rgba(4, 250, 127, 0.5)
+}
+.icons li:nth-of-type(5) i a{
+    color: rgba(4, 131, 250, 0.753)
+}
+.icons li:nth-of-type(6) i a{
+    color: rgba(250, 4, 119, 0.5)
+}
+
+.icons li:nth-of-type(7) i a{
+    color: rgba(4, 234, 250, 0.383)
+}
+
+.icons li:nth-of-type(8) i a{
+    color: rgba(250, 4, 139, 0.349)
+}
+
+.decoration-pros{
+    background-color: #fff;
+    overflow: hidden;
+    padding-bottom: 15px
+}
+
+.decoration-pros ul{
+    padding-left: 0px
+}
+
+.decoration-pros li{
+    position: relative;
+    list-style: none;
+    width: 25%;
+    float: left;
+}
+
+.decoration-pros span{
+    position: absolute;
+    left: 29px;
+    bottom:11px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.decoration-pros li i{
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto
+}
+
+.decoration-pros li:nth-of-type(1) i{
+    background: url('../image/icon_pro1.png') no-repeat;
+    background-size: contain;
+
+}
+.decoration-pros li:nth-of-type(2) i{
+    background: url('../image/icon_pro2.png') no-repeat;
+    background-size: contain;
+
+}
+.decoration-pros li:nth-of-type(3) i{
+    background: url('../image/icon_pro3.png') no-repeat;
+    background-size: contain;
+
+}
+.decoration-pros li:nth-of-type(4) i{
+    background: url('../image/icon_pro4.png') no-repeat;
+    background-size: contain;
+
+}
+
+.bidding-pic img{
+    width: 100%;
+    margin-top: 15px
+}
+
+
+.line {
+    border-bottom: 1px solid #999;
+    background-color: #fff;
+}
+
+.tag-logo{
+    overflow: hidden;
+    margin: 0px 0px 15px;
+    background-color: #fff;
+
+}
+
+.tag-logo li{
+    list-style: none;
+    width:33%;
+    height: 120px;
+    /* border: 1px solid black; */
+    float: left;
+    overflow: hidden;
+}
+
+.tag-logo img{
+    width:50%
+}
+
+.tag-logo ul{
+    width: 100%;
+    padding-left: 0px;
+}
+
+.tag-logo span{
+    display: block
+}
+
+.tag-title{
+    font-size: 14px;
+    color: #333;
+    font-weight: bolder;
+    margin-bottom: 10px
+}
+
+.num{
+    font-size: 10px;
+    color: #999
+}
+
+.classify{
+   border-bottom: 1px solid #999;
+   background-color: #fff;
+}
+
+.classify td{
+    font-size: 12px;
+    background-color: #fff;
+}
+
+.classify tr:nth-of-type(1) td:nth-of-type(1){
+    background-color: #f5f5fa;
+}
+
+.classify tr:nth-of-type(1) td:nth-of-type(1) a{
+    border: none;
+}
+
+.content{
+	background-color: #fff;
+}
+
+.content ul{	
+    padding-left:0px;
+    margin: 0;
+}
+
+.content li{
+	position: relative;
+	list-style: none;
+	padding: 15px 0 9px;
+    margin: 0 15px;
+    height: 68px;
+    border-bottom: 1px dashed #c8c8c8;
+}
+
+.user-icon{
+    width:38px;
+    height: 38px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.user-icon img{
+    width: 38px;
+    height: 38px;
+}
+
+.user-info{
+    position: relative;
+}
+
+.user-icon{
+    position: absolute;
+    left: 15px;
+}
+
+.user-span{
+    display: block;
+    width: 56px;
+    position: absolute;
+    bottom: 3px;
+    left: 5px; 
+    color: #999;
+    font-size: 10px; 
+    text-align: left; 
+}
+
+.case-txt{
+	margin-left: 63px;
+    height: 60px;
+    padding: 0 0 0 15px;
+    border-left: 1px solid #ddd;
+    line-height: 20px;
+    font-size: 14px;
+	text-align: left;
+}
+
+.case-tag{
+	float: right;
+	font-size: 10px;
+	color: #999;
+}
+
+
+.case-tag span{
+	margin-right: 10px;
+}
