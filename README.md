@@ -1,12 +1,10 @@
-# vueproject
+## 技术栈
 
-> A Vue.js project
+vue+axios+webpack+vue-router+SpringBoot+mySQL
 
-## Build Setup
+## 运行项目
 
-``` bash
-# install dependencies
-npm install
+git clone 
 
 # serve with hot reload at localhost:8080
 npm run dev
